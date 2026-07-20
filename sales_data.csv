@@ -1,0 +1,21 @@
+OrderID,Product,Category,Quantity,Price,Region,OrderDate
+1001,Laptop,Electronics,2,55000,North,2026-01-05
+1002,Mouse,Electronics,5,499,South,2026-01-06
+1003,Notebook,Stationery,10,40,North,2026-01-06
+1004,Desk Chair,Furniture,1,4500,West,2026-01-07
+1005,Laptop,Electronics,,55000,East,2026-01-08
+1006,Pen,Stationery,20,10,South,2026-01-08
+1007,Monitor,Electronics,3,9000,North,2026-01-09
+1008,Desk,Furniture,-2,6000,West,2026-01-09
+1009,Mouse,Electronics,4,499,North,2026-01-10
+1010,Notebook,Stationery,15,40,East,2026-01-10
+1011,Keyboard,Electronics,6,1200,South,2026-01-11
+1012,Chair,Furniture,2,,West,2026-01-11
+1013,Laptop,Electronics,1,55000,South,2026-01-12
+1014,Pen,Stationery,50,10,North,2026-01-12
+1015,Monitor,Electronics,2,9000,East,2026-01-13
+1016,Desk Chair,Furniture,3,4500,North,2026-01-13
+1017,Keyboard,Electronics,,1200,West,2026-01-14
+1018,Notebook,Stationery,8,40,South,2026-01-14
+1019,Mouse,Electronics,7,499,East,2026-01-15
+1020,Desk,Furniture,1,6000,North,2026-01-15
