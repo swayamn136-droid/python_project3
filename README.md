@@ -74,7 +74,7 @@ This project helped me understand:
 
 ## Author
 **Swayam N Gowda**
-Python Developer | Machine Learning Enthusiast
+Python Developer 
 
 ## License
 This project is created for educational and learning purposes.
